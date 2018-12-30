@@ -66,3 +66,6 @@ by Javascript object literals
 
 # Revealing Module Pattern
 Exposing only the properties and methods you want via an returned Object
+
+# Mutate
+To change an Object
