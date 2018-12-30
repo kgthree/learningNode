@@ -1,0 +1,18 @@
+# Command Line Interface:
+A utility to type commands to your computer rather than clicking
+
+Examples:
+Bash on Linux
+Terminal on Mac
+Command Prompt on Windows
+
+# Arguments:
+Value you give your program that affect how it runs
+
+cd (..)
+ls
+mkdir
+nano
+touch
+
+https://learncodethehardway.org/unix/
