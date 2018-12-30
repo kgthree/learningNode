@@ -1,0 +1,9 @@
+# Processors, Machine Code, and C++
+
+Level of Abstraction
+Javascript (Highest level)
+C/C++ (High Level)
+Assembly Language (Low level)
+Machine Language (lowest level)
+
+Node and V8 are written in C++

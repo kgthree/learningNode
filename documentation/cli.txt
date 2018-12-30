@@ -1,13 +1,7 @@
-# Command Line Interface:
-A utility to type commands to your computer rather than clicking
-
 Examples:
 Bash on Linux
 Terminal on Mac
 Command Prompt on Windows
-
-# Arguments:
-Value you give your program that affect how it runs
 
 cd (..)
 ls
@@ -16,3 +10,6 @@ nano
 touch
 
 https://learncodethehardway.org/unix/
+
+# Verify Node.JS Version
+node -v

@@ -1,0 +1,22 @@
+Clients requests - Server Responds
+
+Standard format - Request/Response
+
+Client-Server Model
+
+Web Server -> Responds to Browser Client
+HTTP Request/Response Model
+
+# What does Javascript need to manage a server?
+1) Better ways to organize code into reusable pieces
+2) Ways to deal with files
+3) Ways to deal with databases
+4) The ability to communicate over the internet
+5) The ability to accept requests and send responses in the standard format
+6) A way to deal with the work that takes a long time
+
+# Installer
+https://nodejs.org/en/
+
+# Docs
+https://nodejs.org/en/docs/
