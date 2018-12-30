@@ -69,3 +69,12 @@ Exposing only the properties and methods you want via an returned Object
 
 # Mutate
 To change an Object
+
+# Event
+Something that has happened in our app that we can respond to
+In node we actually talk about 2 different kinds of events
+- System Events (C++ Core, libuv)
+- Custom Events (Javascript Core, Event Emitter)
+
+# Event listener
+The code that responds to an event

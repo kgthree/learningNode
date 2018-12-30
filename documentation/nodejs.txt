@@ -8,7 +8,7 @@ Web Server -> Responds to Browser Client
 HTTP Request/Response Model
 
 # What does Javascript need to manage a server?
-1) Better ways to organize code into reusable pieces
+1) Better ways to organize code into reusable pieces (Modules)
 2) Ways to deal with files
 3) Ways to deal with databases
 4) The ability to communicate over the internet
