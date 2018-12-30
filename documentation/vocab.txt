@@ -37,3 +37,29 @@ A block of code that results in a Value
 
 # Invoke
 Run the function
+
+# Name/Value Pair
+A name which maps to a value
+A value can contain more name/value pairs
+
+# Objects
+A collection of name/value pairs
+
+# Object literal
+Name/Value pairs separated by commas and surrounded by curly braces
+
+# Inheritance
+One object gets access to the properties and methods of another Object
+
+# Function constructors
+A normal function that is used to construct Objects
+
+# Primitive
+A type of data that represents a single value (not an object)
+
+# Scope
+Where in code you have access to a particular variable or function.
+
+# JSON
+Javascript Object Notation -  A standard for structuring data that is inspired
+by Javascript object literals 
