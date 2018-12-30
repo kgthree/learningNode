@@ -62,4 +62,7 @@ Where in code you have access to a particular variable or function.
 
 # JSON
 Javascript Object Notation -  A standard for structuring data that is inspired
-by Javascript object literals 
+by Javascript object literals
+
+# Revealing Module Pattern
+Exposing only the properties and methods you want via an returned Object
