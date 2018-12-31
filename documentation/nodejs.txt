@@ -9,11 +9,11 @@ HTTP Request/Response Model
 
 # What does Javascript need to manage a server?
 1) Better ways to organize code into reusable pieces (Modules)
-2) Ways to deal with files
+2) Ways to deal with files (Asynchronous and Synchronous ways to work with binary data)
 3) Ways to deal with databases
 4) The ability to communicate over the internet
 5) The ability to accept requests and send responses in the standard format
-6) A way to deal with the work that takes a long time
+6) A way to deal with the work that takes a long time (Node is Asynchronous)
 
 # Installer
 https://nodejs.org/en/

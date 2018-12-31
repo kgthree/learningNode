@@ -133,3 +133,19 @@ How characters are stored in binary
 # Error-First callback
 Callbacks take an error object as their first parameter
 null if no error, otherwise will contain an object defining the error.
+
+# Chunk
+A piece of data being sent through a Stream
+
+# Abstract (Base) class
+A type of constructor you never work directly with, but inherit from
+We create new custom objects which inherit from the abstract base Class
+
+# Pipes
+Connecting 2 streams by writing to one stream what is being read from another
+In node you pipe from a Readable stream to a writable stream
+
+# Method Chaining
+A method returns an object so we can keep calling more methods
+Sometimes it returns the parent object (cascading) and sometimes some other
+object
