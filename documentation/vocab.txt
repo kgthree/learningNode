@@ -10,7 +10,8 @@ Determines HOW the language should be written
 https://www.ecma-international.org/publications/standards/Ecma-262.htm
 
 # Javascript Engine
-A program that converts Javascript code into something the computer processor can Understand
+A program that converts Javascript code into something the computer processor
+can Understand
 
 # Servers and Clients
 Server - computer the performs services
@@ -18,13 +19,16 @@ Client - asks for services
 
 # Machine Code (Language)
 Programming Languages spoken by computer Processors
-Every program you run on a computer has been converted (compiled) into a machine code.
+Every program you run on a computer has been converted (compiled) into a
+machine code.
 
 # Breakpoint
-A spot in our code where we tell a debugging tool to pause the execution of our code.
+A spot in our code where we tell a debugging tool to pause the execution of our
+code.
 
 # Module
-A reusable block of code who's existence does not accidentally impact other Code
+A reusable block of code who's existence does not accidentally impact other
+Code
 
 # Common JS Modules
 An agreed upon standard for how code modules should be structured
@@ -84,3 +88,7 @@ A string that has some special meaning in our Code
 
 # Template literal
 A way to concatenate strings in Javascript (without using '+')
+
+# Syntactic Sugar
+A feature that only changes how you type something, but nothing changes under
+the hood
