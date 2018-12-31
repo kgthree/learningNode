@@ -149,3 +149,22 @@ In node you pipe from a Readable stream to a writable stream
 A method returns an object so we can keep calling more methods
 Sometimes it returns the parent object (cascading) and sometimes some other
 object
+
+# Protocol
+A set of rules 2 sides agree on to use when communicating
+Both the client and server are programmed to understand and use that particular
+set of rules.
+
+# port
+Once a computer receives a packet, how it knows what program to send it to
+
+# http
+A set of rules (and a format) for data being transferred on the Web
+
+# MIME type
+Multipurpose internet mail extensions - application/json, text/html, image/jpeg
+A standard for specific the type of data being sent
+
+# Template
+Text designed to be the basis (placedholder) for the final text or content
+after being processed. 
