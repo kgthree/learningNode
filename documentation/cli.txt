@@ -3,7 +3,9 @@ Bash on Linux
 Terminal on Mac
 Command Prompt on Windows
 
-cd (..)
+cd
+cd ..
+cd ../(directory)
 ls
 mkdir
 nano
@@ -13,3 +15,7 @@ https://learncodethehardway.org/unix/
 
 # Verify Node.JS Version
 node -v
+
+# Run Node app
+node app.js
+
