@@ -92,3 +92,40 @@ A way to concatenate strings in Javascript (without using '+')
 # Syntactic Sugar
 A feature that only changes how you type something, but nothing changes under
 the hood
+
+# Asynchronous
+More than one process running simultaneously
+Note: Node is Asynchronous, V8 is not. Javascript is not.
+
+# Synchronous
+One process executing at a time.
+Note: Javascript is synchronous. NodeJS is asynchronous
+
+# Callback
+A function passed to some other function, which we assume will be invoked at
+some point
+
+# Non-Blocking
+Doing other things without stopping your Programming from running
+Made possible by executing code asynchronously
+
+# Buffer
+A temporary holding spot for data being moved from one place to another
+
+# Stream
+A sequence of data made available over time
+
+# Binary data
+Data stored in binary (sets of 1s and 0s)
+0101 = 5
+Base 2 representation of a number
+
+# Character sets (Unicode)
+A representation of characters as numbers
+
+# Character Encoding (UTF-8)
+How characters are stored in binary
+
+# Byte
+8 bits.
+00101100
