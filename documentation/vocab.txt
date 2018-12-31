@@ -166,7 +166,7 @@ Multipurpose internet mail extensions - application/json, text/html, image/jpeg
 A standard for specific the type of data being sent
 
 # Template
-Text designed to be the basis (placedholder) for the final text or content
+Text designed to be the basis (place holder) for the final text or content
 after being processed.
 
 # API
