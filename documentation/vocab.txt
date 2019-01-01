@@ -226,3 +226,19 @@ Not Dynamic - files not processed by code in any way. HTML, CSS, images, etc.
 An architectural style for building APIs.
 Stands for 'Representational State Transfer'. We decided that
 HTTP verbs and URLs mean something.
+
+# NoSQL
+A variety of technologies that are alternatives to tables and SQL.
+One of those types is a document database. MongoDB is one of those.
+
+# Stack
+The combination of all technologies used to build a piece of software.
+I.E - Database system, server side code, client side code, and everything else.
+
+# DOM
+The structure browsers use to store and manage web packages
+Stands for Document Object Model. Browsers give the Javascript
+engine the ability to manipulate the DOM.
+
+# Full stack developer
+A developer who knows all the pieces of a software stack.
