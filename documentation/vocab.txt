@@ -221,3 +221,8 @@ Example: In the case of Express, sitting between the request and the response.
 
 # Static
 Not Dynamic - files not processed by code in any way. HTML, CSS, images, etc.
+
+# REST
+An architectural style for building APIs.
+Stands for 'Representational State Transfer'. We decided that
+HTTP verbs and URLs mean something.
