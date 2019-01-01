@@ -208,4 +208,16 @@ Major - Big changes, Your could will break (maybe)
 
 semver.org
 
-# 
+# Environment Variables
+Global Variables specific to the environment (Server) our code is living in.
+
+# HTTP method
+Specifies the type of action the request wishes to make
+GET, POST, DELETE, PUT, and others. Also called verbs.
+
+# Middleware
+Code that sits between two layers of software.
+Example: In the case of Express, sitting between the request and the response.
+
+# Static
+Not Dynamic - files not processed by code in any way. HTML, CSS, images, etc.
