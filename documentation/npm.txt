@@ -1,0 +1,7 @@
+# Node Package Manager (NPM)
+http://npmjs.com
+
+# Package.json version updating
+"moment": "^2.10.6" - the carrot (^) indicates that npm can update any minor
+release or patch. "~2.10.6" = the tilda (~) indicates that npm can update
+only patches.

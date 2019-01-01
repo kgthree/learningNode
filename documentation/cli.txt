@@ -19,3 +19,17 @@ node -v
 # Run Node app
 node app.js
 
+# Verify NPM version
+npm -v
+
+# Installing Dependencies
+npm install
+- looks at package.json file and automatically downloads dependencies.
+this means the node_modules folder can be added to gitignore to reduce
+the size of our apps.
+
+# Update Dependencies
+npm Update
+
+# Install global node packages
+sudo npm install -g {Package}

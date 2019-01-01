@@ -183,3 +183,29 @@ Translating an object into a format that can be stored or transferred.
 
 # Routing
 Mapping HTTP requests to content.
+
+# Package
+Code...managed and maintained with a package management system
+
+# Package Management system
+Software that automates installing and updating packages. Deals with versioning
+you have or need and manages dependencies.
+
+# Dependencies
+Code that another set of code depends on to function.
+
+# Versioning
+Specifying what version of a set of code this is so others can track if a new
+version has come out. This allows to watch for new features, or to watch for
+'breaking changes'. The word 'semantic' implies that something conveys meaning.
+
+Major.Minor.Patch
+1.7.3
+
+Patch - bug fixes, code will work fine
+Minor - New features added, code will work fine
+Major - Big changes, Your could will break (maybe)
+
+semver.org
+
+# 
